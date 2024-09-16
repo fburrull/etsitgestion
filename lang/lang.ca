@@ -1,9 +1,9 @@
 <?php // -*-mode: PHP; codificació: utf-8;-*-
 
+// FBM: Traduït amb google translator
 // Aquest fitxer conté codi PHP que especifica cadenes específiques d'idioma
 // Les cadenes per defecte provenen de lang.en, i qualsevol cosa en una configuració regional
 // un fitxer específic sobreescriurà el per defecte. Aquest és un fitxer anglès dels EUA/Regne Unit.
-//
 //
 //
 // Aquest fitxer és codi PHP. Tractar-ho com a tal.
